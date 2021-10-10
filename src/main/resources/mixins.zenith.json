@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.gopro336.zenith.mixin.mixins.mixin",
+  "refmap": "mixins.zenith.refmap.json",
+  "mixins": [
+    "NetworkManagerMixin",
+  ],
+  "client": [
+    "EntityPlayerSPMixin"
+  ]
+}
