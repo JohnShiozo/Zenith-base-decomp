@@ -23,4 +23,4 @@ gradlew build
 ## Credits
 Thanks [PeterDev](https://github.com/PeterPePem) for creating the readme and helping fixing the source
 
-Thank you [GentlemanMC](https://github.com/GentlemanMC) for leaking da [jar](https://github.com/PlutoSolutions/Zenith-Base-1.7.2)
+[GentlemanMC](https://github.com/GentlemanMC) credited xd
